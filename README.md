@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=b8n4rleidn19uq4iuqn1jkwqk&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=b8n4rleidn19uq4iuqn1jkwqk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true&bar_color=53b14f">
+  </a>
+</p>
 <!--
 **nettspent/nettspent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
