@@ -4,5 +4,5 @@
   </a>
 </p>
 <p align="center">
-    <img width="600" height="1100" alt="Untitled417_20260110185537" src="https://github.com/user-attachments/assets/954ea9fa-baba-43d3-9b7a-1ba0c425ff68" />
+   <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/59c36dbd-28ed-4c6e-a0b0-0d66f34a8739" />
 </p>
